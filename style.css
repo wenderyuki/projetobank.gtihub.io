@@ -1,0 +1,137 @@
+@charset "UTF-8";
+body{
+    
+  background-color:rgb(129, 35, 218) ;
+  text-align: center;
+  width: 100%;
+  margin: 0px;
+} 
+img{
+   margin-top: -100px;
+    width: 70%;
+   padding-top: 200px;
+}
+.comec{
+   
+    background-color: #5405e7;
+    border: none;
+    color: white;
+    font-weight: bolder;
+    margin-top: 100px;
+    border-radius: 30px;
+     padding: 15px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-left: 30px;
+     padding-right: 30px;
+     font-size: 25px;
+     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.562);
+}
+.comec:hover{
+    background-color: rgb(164, 81, 241);
+    font-size: 27px;
+}
+#p{
+    color: rgb(79, 2, 151);
+    margin-top: 40px;
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+#info{
+    text-decoration: none;
+}
+#p:hover{
+    color: rgb(59, 1, 112);
+    font-size: 29px;
+}
+
+#pg{
+    background-color:rgb(255, 188, 255);
+    min-height: 50px;
+    margin-top: -35px;
+    box-shadow: 2px 5px 8px rgba(0, 0, 0, 0.486);
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+   
+    font-weight: lighter;
+    color: rgb(103, 7, 192);
+    font-size:50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  
+}
+p{
+    color: white;
+   font-family: Arial, Helvetica, sans-serif;
+  
+}
+.dados{ 
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 30px;
+}
+input{
+    padding-right: 40px;
+    min-height:20px;
+}
+
+button{
+     background-color: #5405e7;
+     border: none;
+     color: white;
+      font-weight: bolder;
+      margin-top: 30px;
+      margin-left: 25px;
+      border-radius: 30px;
+      padding: 15px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 30px;
+      padding-right: 30px;
+      font-size: 25px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.562);
+}
+button:hover{
+    background-color: rgb(164, 81, 241);
+    font-size: 27px;
+}
+#but{
+    text-align: left;
+}
+
+
+#buti{
+    background-color: #5405e7;
+    border: none;
+   
+    color: white;
+     font-weight: bolder;
+     margin-top: 30px;
+     border-radius: 30px;
+      padding: 15px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 30px;
+      padding-right: 30px;
+      font-size: 25px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.562);
+}
+#buti:hover{
+    background-color: rgb(164, 81, 241);
+    font-size: 27px;
+}
+
+#voltar{
+    text-align: left;
+    margin-left: 10px;
+}
+ 
+#tex{
+    color: black;
+    font-weight: bolder;
+}
+    
+
